@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  osm:
+  - apiVersion: v2
+    appVersion: v0.6.1
+    created: "2021-01-11T20:45:05.312913631Z"
+    description: A Helm chart to install the OSM control plane on Kubernetes
+    digest: 543108fd3d3f903316f4ce0578b6344630b6f5d6ff02526c580407875aa7644e
+    name: osm
+    type: application
+    urls:
+    - https://SanyaKochhar.github.io/osm/osm-0.6.1.tgz
+    version: 0.6.1
+generated: "2021-01-11T20:45:05.311159222Z"
